@@ -1,0 +1,10 @@
+D:\uni\paradigma2\CRUD\frontend\target\debug\deps\gloo_console-c10511e37c9e00b6.d: C:\Users\issac\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gloo-console-0.2.3\src\lib.rs C:\Users\issac\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gloo-console-0.2.3\src\console_dbg.rs C:\Users\issac\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gloo-console-0.2.3\src\counter.rs C:\Users\issac\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gloo-console-0.2.3\src\externs.rs C:\Users\issac\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gloo-console-0.2.3\src\macros.rs C:\Users\issac\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gloo-console-0.2.3\src\timer.rs
+
+D:\uni\paradigma2\CRUD\frontend\target\debug\deps\libgloo_console-c10511e37c9e00b6.rmeta: C:\Users\issac\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gloo-console-0.2.3\src\lib.rs C:\Users\issac\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gloo-console-0.2.3\src\console_dbg.rs C:\Users\issac\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gloo-console-0.2.3\src\counter.rs C:\Users\issac\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gloo-console-0.2.3\src\externs.rs C:\Users\issac\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gloo-console-0.2.3\src\macros.rs C:\Users\issac\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gloo-console-0.2.3\src\timer.rs
+
+C:\Users\issac\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gloo-console-0.2.3\src\lib.rs:
+C:\Users\issac\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gloo-console-0.2.3\src\console_dbg.rs:
+C:\Users\issac\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gloo-console-0.2.3\src\counter.rs:
+C:\Users\issac\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gloo-console-0.2.3\src\externs.rs:
+C:\Users\issac\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gloo-console-0.2.3\src\macros.rs:
+C:\Users\issac\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gloo-console-0.2.3\src\timer.rs:

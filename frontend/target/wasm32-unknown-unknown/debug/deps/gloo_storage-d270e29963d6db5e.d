@@ -1,0 +1,10 @@
+D:\uni\paradigma2\CRUD\frontend\target\wasm32-unknown-unknown\debug\deps\gloo_storage-d270e29963d6db5e.d: C:\Users\issac\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gloo-storage-0.2.2\src\lib.rs C:\Users\issac\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gloo-storage-0.2.2\src\errors.rs C:\Users\issac\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gloo-storage-0.2.2\src\local_storage.rs C:\Users\issac\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gloo-storage-0.2.2\src\session_storage.rs
+
+D:\uni\paradigma2\CRUD\frontend\target\wasm32-unknown-unknown\debug\deps\libgloo_storage-d270e29963d6db5e.rlib: C:\Users\issac\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gloo-storage-0.2.2\src\lib.rs C:\Users\issac\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gloo-storage-0.2.2\src\errors.rs C:\Users\issac\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gloo-storage-0.2.2\src\local_storage.rs C:\Users\issac\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gloo-storage-0.2.2\src\session_storage.rs
+
+D:\uni\paradigma2\CRUD\frontend\target\wasm32-unknown-unknown\debug\deps\libgloo_storage-d270e29963d6db5e.rmeta: C:\Users\issac\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gloo-storage-0.2.2\src\lib.rs C:\Users\issac\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gloo-storage-0.2.2\src\errors.rs C:\Users\issac\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gloo-storage-0.2.2\src\local_storage.rs C:\Users\issac\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gloo-storage-0.2.2\src\session_storage.rs
+
+C:\Users\issac\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gloo-storage-0.2.2\src\lib.rs:
+C:\Users\issac\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gloo-storage-0.2.2\src\errors.rs:
+C:\Users\issac\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gloo-storage-0.2.2\src\local_storage.rs:
+C:\Users\issac\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gloo-storage-0.2.2\src\session_storage.rs:

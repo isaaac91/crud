@@ -1,0 +1,14 @@
+
+CREATE TABLE IF NOT EXISTS categorias (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    nombre TEXT NOT NULL UNIQUE
+);
+
+CREATE TABLE IF NOT EXISTS tareas (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    titulo TEXT NOT NULL,
+    descripcion TEXT NOT NULL,
+    categoria_id INTEGER NOT NULL,
+    completada BOOLEAN NOT NULL DEFAULT FALSE,
+    FOREIGN KEY (categoria_id) REFERENCES categorias(id)
+);
